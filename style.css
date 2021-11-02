@@ -1,0 +1,15 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000014;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.wrapper{
+    font-size: 7rem;
+    color: #00cc00;
+    text-shadow: 2px 2px 700px#c2ffc2;;
+}
+
